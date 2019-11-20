@@ -1,0 +1,12 @@
+﻿  Source.cpp
+c:\users\fanzi\source\repos\snake\snake\source.cpp(83): warning C4305: -=: усечение из "double" в "float"
+c:\users\fanzi\source\repos\snake\snake\source.cpp(85): warning C4305: =: усечение из "double" в "float"
+c:\users\fanzi\source\repos\snake\snake\source.cpp(105): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\fanzi\source\repos\snake\snake\source.cpp(189): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\fanzi\source\repos\snake\snake\source.cpp(197): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\fanzi\source\repos\snake\snake\source.cpp(202): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\fanzi\source\repos\snake\snake\source.cpp(208): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\fanzi\source\repos\snake\snake\source.cpp(220): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\fanzi\source\repos\snake\snake\source.cpp(256): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\fanzi\source\repos\snake\snake\source.cpp(260): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Snake.vcxproj -> C:\Users\fanzi\source\repos\Snake\Debug\Snake.exe
